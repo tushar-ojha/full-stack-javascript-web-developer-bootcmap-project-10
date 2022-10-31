@@ -9,7 +9,7 @@
 #### Requirement/Problem statement: 
 - To convert a given design (PNG file attached at the end) into HTML, CSS code.
     - Flexbox/grid/external libraries/framework shouldn't be used.
-    - Responsiveness is not required.
+    - Responsiveness is required.
 
 #### Learnings/experiences from building this project:
 - I took 6 hours to turn given design into code!
