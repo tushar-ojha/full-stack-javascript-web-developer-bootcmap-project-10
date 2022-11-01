@@ -20,5 +20,5 @@
         - Writing media query seems like writing whole CSS again!
 
 
-Design given:
+### Design given:
 ![Design](/Design.png)
